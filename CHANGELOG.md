@@ -1,3 +1,14 @@
+## [9.0.0](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v8.0.1...v9.0.0) (2025-11-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking change of console
+
+### Features
+
+* breaking change of console ([6d522e8](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/6d522e806a2f8dd4dcd5a407629143ab02220852))
+
 ## [8.0.1](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v8.0.0...v8.0.1) (2025-11-05)
 
 
