@@ -1,3 +1,10 @@
+## [9.1.1](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.1.0...v9.1.1) (2025-11-05)
+
+
+### Chores
+
+* update ci ([105216a](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/105216a3f19a574bdb583c7debc626f1e5660c64))
+
 ## [9.1.0](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.0.0...v9.1.0) (2025-11-05)
 
 
