@@ -1,3 +1,15 @@
+## [8.0.1](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v8.0.0...v8.0.1) (2025-11-05)
+
+
+### Bug Fixes
+
+* adding space ([71671ea](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/71671ea4d375aebfaeb031e9093433254cfa0339))
+
+
+### Chores
+
+* **release:** 1.2.0 [skip ci] ([3fc6a52](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/3fc6a52017682f25b4a02bd79837bc26fd5ca083))
+
 ## [1.2.0](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v1.1.0...v1.2.0) (2025-11-05)
 
 
