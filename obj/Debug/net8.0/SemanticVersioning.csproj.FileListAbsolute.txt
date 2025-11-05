@@ -1,0 +1,14 @@
+C:\Workspace\semantic-versioning\bin\Debug\net8.0\SemanticVersioning.exe
+C:\Workspace\semantic-versioning\bin\Debug\net8.0\SemanticVersioning.deps.json
+C:\Workspace\semantic-versioning\bin\Debug\net8.0\SemanticVersioning.runtimeconfig.json
+C:\Workspace\semantic-versioning\bin\Debug\net8.0\SemanticVersioning.dll
+C:\Workspace\semantic-versioning\bin\Debug\net8.0\SemanticVersioning.pdb
+C:\Workspace\semantic-versioning\obj\Debug\net8.0\SemanticVersioning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\semantic-versioning\obj\Debug\net8.0\SemanticVersioning.AssemblyInfoInputs.cache
+C:\Workspace\semantic-versioning\obj\Debug\net8.0\SemanticVersioning.AssemblyInfo.cs
+C:\Workspace\semantic-versioning\obj\Debug\net8.0\SemanticVersioning.csproj.CoreCompileInputs.cache
+C:\Workspace\semantic-versioning\obj\Debug\net8.0\SemanticVersioning.dll
+C:\Workspace\semantic-versioning\obj\Debug\net8.0\refint\SemanticVersioning.dll
+C:\Workspace\semantic-versioning\obj\Debug\net8.0\SemanticVersioning.pdb
+C:\Workspace\semantic-versioning\obj\Debug\net8.0\SemanticVersioning.genruntimeconfig.cache
+C:\Workspace\semantic-versioning\obj\Debug\net8.0\ref\SemanticVersioning.dll
