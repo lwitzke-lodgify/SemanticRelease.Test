@@ -1,3 +1,10 @@
+## [9.1.2](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.1.1...v9.1.2) (2025-11-05)
+
+
+### Chores
+
+* no ci should be run ([e528a93](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/e528a93c4ef32aa5e95ddfc18dad2c6b0db686c9))
+
 ## [9.1.1](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.1.0...v9.1.1) (2025-11-05)
 
 
