@@ -47,7 +47,7 @@
           },
           {
             "type": "chore",
-            "release": "patch"
+            "release": false
           },
           {
             "breaking": true,
