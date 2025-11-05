@@ -1,3 +1,10 @@
+## [9.2.2](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.2.1...v9.2.2) (2025-11-05)
+
+
+### Bug Fixes
+
+* testing ([3c0a663](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/3c0a6635cac2c67e8f08d3bbbe17aa6ebc9fdc87))
+
 ## [9.2.1](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.2.0...v9.2.1) (2025-11-05)
 
 
