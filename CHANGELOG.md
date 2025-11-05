@@ -1,3 +1,15 @@
+## [9.2.0](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.1.2...v9.2.0) (2025-11-05)
+
+
+### Features
+
+* get latest one that begin with v ([571bd0a](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/571bd0abe0c0587186457137990900f145275f4e))
+
+
+### Chores
+
+* no updates and release should be created ([a42fdb9](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/a42fdb9e2a8bd9bbf5a75fab0d664f0395ab599e))
+
 ## [9.1.2](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.1.1...v9.1.2) (2025-11-05)
 
 
