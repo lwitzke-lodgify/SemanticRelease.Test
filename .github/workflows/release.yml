@@ -45,5 +45,5 @@ jobs:
         if: steps.semantic.outcome == 'success'
         run: |
           echo "Current Commit SHA: ${{ github.sha }}"
-          LATEST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "No release created")
-          echo "Current Release Version: $LATEST_TAG"
+          LATEST_TAG=$(git tag -l "v*" --sort=-v:refname | head -n 1)
+          echo "Current Release Version: ${LATEST_TAG:-No release created}"
