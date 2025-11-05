@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v1.1.0...v1.2.0) (2025-11-05)
+
+
+### Features
+
+* update the configuration ([3b404e1](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/3b404e116a75f8b97f63fe45b770b3e39821b593))
+
 ## [1.1.0](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v1.0.0...v1.1.0) (2025-11-05)
 
 
