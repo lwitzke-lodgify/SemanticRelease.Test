@@ -2,5 +2,4 @@
 Console.WriteLine("Is it works? ");
 Console.WriteLine("Is it works? ");
 Console.WriteLine("Is it works? ");
-Console.WriteLine("Is it works? ");
 
