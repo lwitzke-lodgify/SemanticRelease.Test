@@ -36,6 +36,14 @@ jobs:
             conventional-changelog-conventionalcommits@7
 
       - name: Run semantic-release
+        id: semantic
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npx semantic-release
+
+      - name: Print commit SHA and release version
+        if: steps.semantic.outcome == 'success'
+        run: |
+          echo "Current Commit SHA: ${{ github.sha }}"
+          LATEST_TAG=$(git tag -l "v*" --sort=-v:refname | head -n 1)
+          echo "Current Release Version: ${LATEST_TAG:-No release created}"

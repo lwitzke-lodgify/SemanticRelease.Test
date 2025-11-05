@@ -1,3 +1,36 @@
+## [9.2.0](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.1.2...v9.2.0) (2025-11-05)
+
+
+### Features
+
+* get latest one that begin with v ([571bd0a](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/571bd0abe0c0587186457137990900f145275f4e))
+
+
+### Chores
+
+* no updates and release should be created ([a42fdb9](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/a42fdb9e2a8bd9bbf5a75fab0d664f0395ab599e))
+
+## [9.1.2](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.1.1...v9.1.2) (2025-11-05)
+
+
+### Chores
+
+* no ci should be run ([e528a93](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/e528a93c4ef32aa5e95ddfc18dad2c6b0db686c9))
+
+## [9.1.1](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.1.0...v9.1.1) (2025-11-05)
+
+
+### Chores
+
+* update ci ([105216a](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/105216a3f19a574bdb583c7debc626f1e5660c64))
+
+## [9.1.0](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.0.0...v9.1.0) (2025-11-05)
+
+
+### Features
+
+* improve ci ([3dc170c](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/3dc170c60e18e5bccfbe296c463f0489c5380e70))
+
 ## [9.0.0](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v8.0.1...v9.0.0) (2025-11-05)
 
 
