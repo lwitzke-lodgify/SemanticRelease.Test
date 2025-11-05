@@ -1,3 +1,10 @@
+## [9.1.0](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.0.0...v9.1.0) (2025-11-05)
+
+
+### Features
+
+* improve ci ([3dc170c](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/3dc170c60e18e5bccfbe296c463f0489c5380e70))
+
 ## [9.0.0](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v8.0.1...v9.0.0) (2025-11-05)
 
 
