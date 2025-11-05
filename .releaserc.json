@@ -1,7 +1,8 @@
 {
   "branches": [
     "main",
-    "master"
+    "master",
+    "test-ci"
   ],
   "plugins": [
     [
@@ -42,12 +43,16 @@
             "release": "patch"
           },
           {
+            "type": "build",
+            "release": "patch"
+          },
+          {
             "type": "ci",
             "release": "patch"
           },
           {
             "type": "chore",
-            "release": false
+            "release": "patch"
           },
           {
             "breaking": true,
