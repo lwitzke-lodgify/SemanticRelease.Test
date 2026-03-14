@@ -1,3 +1,10 @@
+## [9.2.3](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.2.2...v9.2.3) (2026-03-14)
+
+
+### Continuous Integration
+
+* add workflow_call trigger for reusable workflow ([2852b98](https://github.com/lwitzke-lodgify/SemanticRelease.Test/commit/2852b9840b6a98cc78e09ab0219eb999ca410b2f))
+
 ## [9.2.2](https://github.com/lwitzke-lodgify/SemanticRelease.Test/compare/v9.2.1...v9.2.2) (2025-11-05)
 
 
